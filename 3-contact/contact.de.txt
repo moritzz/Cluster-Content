@@ -21,6 +21,6 @@ Contactoptions:
 - 
   title: Contact
   text: Melde dich direkt bei Theresa.
-  url: mailto:theresagessler@googlemail.com
+  url: 'mailto:cluster+kontakt@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
   linktext: Schreib eine Mail
   icon: contact.svg
