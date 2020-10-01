@@ -1,8 +1,8 @@
 # Zwei-Zimmer-Satellit bei Mehr als Wohnen (Oerlikon)
 
-In unserer 352m²-Cluster-Wohnung am Dialogweg 6 wird per 1.10.2018 ein Zwei-Zimmer-Cluster frei. Aufgrund der Vorgaben der Baugenossenschaft Mehr als Wohnen, muss er von zwei Personen bewohnt werden. 
+In unserer 352m²-Cluster-Wohnung am Dialogweg 6 wird per 1.10.2018 ein Zwei-Zimmer-Cluster frei. Aufgrund der Vorgaben der Baugenossenschaft Mehr als Wohnen, muss er von zwei Personen bewohnt werden.
 
-Die beiden, freien Zimmer sind rund 25m² und 19m² gross und liegen im südöstlichen Cluster¹ mit eignem Bad und einer Teeküche im Eingangsbereich. 
+Die beiden, freien Zimmer sind rund 25m² und 19m² gross und liegen im südöstlichen Cluster¹ mit eignem Bad und einer Teeküche im Eingangsbereich.
 
 Wer Interesse hegt, findet auf unserer [Hompage für Interessentinnen](https://cluster.mehrals11.ch/) detailierte Informationen oder melde sich gerne bei [Bigna, Florien oder Moritz](mailto:cluster@mehrals11.ch?subject=Interesse%20an%20einem%20Cluster%20bei%20Mehr%20als%2011).
 
@@ -10,29 +10,29 @@ Wer Interesse hegt, findet auf unserer [Hompage für Interessentinnen](https://c
 
 Die Wohnung ist total 352m² gross und beherbergt fünf Cluster mit je eigenem Bad und einer Teeküche und einer Gemeinschaftsfläche mit riesigem Wohnzimmer mit Wohnküche, gemeinschaftlichem Büro, einem Gästezimmer mit gemeinschaftlichem Badezimmer mit Badewanne und einem riesigen, sonnigen Balkon mit Blick über das schöne Schwamendingen und an den Zürichberg.
 
-Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflichtet haben, muss sie von mindestens sieben Personen bewohnt werden. 
+Weil wir uns gegenüber der Genossenschaft der Verdichtung von Wohnraum verpflichtet haben, muss sie von mindestens sieben Personen bewohnt werden.
 
 ## Was es kostet.
 
-Die ganze 10½-Zimmer Wohnung kostet uns rund Fr. 7‘100.-, die wir uns als Verein² Mehr als 11 teilen. Zudem steuern wir der Genossenschaft ein Anteilskapital vom total Fr. 81‘000.- bei. 
+Die ganze 10½-Zimmer Wohnung kostet uns rund Fr. 7‘100.-, die wir uns als Verein² Mehr als 11 teilen. Zudem steuern wir der Genossenschaft ein Anteilskapital vom total Fr. 81‘000.- bei.
 
-Der momentan freie Cluster kostet monatlich total Fr. 1853.~, wobei das grössere Zimmer nach unserem fairen Verteilschlüssel³ mit Fr. 992.45 zu Buche schlägt, das kleinere mit Fr. 860.23. Inbegriffen sind die Miete und Nebenkosten für Heizung und so.
+Der momentan freie Cluster kostet monatlich total Fr. 1853.~, [wobei das grössere Zimmer nach unserem fairen Verteilschlüssel](https://cluster.mehrals11.ch/content/2-wohnung/mehr-als-11-plan-und-mieten.pdf) mit Fr. 992.45 zu Buche schlägt, das kleinere mit Fr. 860.23. Inbegriffen sind die Miete und Nebenkosten für Heizung und so.
 
 Dazu kommen monatlich noch Zahlungen für unsere lieben Putzfeen, Internet und Co. vom monatlich Fr. 50.- pro Kopf und eine Einzahlung in unserem Mobiliarfonds von Fr. 30.- pro Kopf und Monat.
 
 ### Wieviel Kapital muss ich einbringen?
 
-Da unser Verein die Wohnung von der Baugenossenschaft Mehr als Wohnen anmietet, musst Du ein Eigenkapital von Fr. 11‘571.~ pro Kopf einschiessen und je zwei Genossenschaftsscheine von Fr. 500.- kaufen, die Dir ein Stimmrecht gegenüber der Genossenschaft garantieren. 
+Da unser Verein die Wohnung von der Baugenossenschaft Mehr als Wohnen anmietet, musst Du ein Eigenkapital von Fr. 11‘571.~ pro Kopf einschiessen und je zwei Genossenschaftsscheine von Fr. 500.- kaufen, die Dir ein Stimmrecht gegenüber der Genossenschaft garantieren.
 
-Sämtliche Anlagen werden Dir bei Auszug zurückerstattet oder von Nachmietern abgetauscht. Für das Eigenkapital kannst Du auch die Gelder Deiner Pensionskasse anzapfen. 
+Sämtliche Anlagen werden Dir bei Auszug zurückerstattet oder von Nachmietern abgetauscht. Für das Eigenkapital kannst Du auch die Gelder Deiner Pensionskasse anzapfen.
 
 ## Wer wird sind.
 
 Wir sind ein urbanes Völkchen bunter Zeitgenossen, die seit Februar 2015 eine 10½-Zimmer-Wohnung am Dialogweg 6 in der [Baugenossenschaft Mehr als Wohnen](https://mehralswohnen.ch/) beleben.
 
-Wir leben gerne und viel, kochen nicht gerne für uns alleine, mögen Literatur, Film, Musik und Technik, Wohnzimmerdiskos und Sonntagsbrunches, sind umweltbewusst, aber keine Fundis. 
+Wir leben gerne und viel, kochen nicht gerne für uns alleine, mögen Literatur, Film, Musik und Technik, Wohnzimmerdiskos und Sonntagsbrunches, sind umweltbewusst, aber keine Fundis.
 
-Wir wohnen gerne, aber nicht nur, haben gerne Menschen und Besucher um uns rum, mit denen wir auch mal einen Kinofilm, ein Buch oder einen Tee teilen. 
+Wir wohnen gerne, aber nicht nur, haben gerne Menschen und Besucher um uns rum, mit denen wir auch mal einen Kinofilm, ein Buch oder einen Tee teilen.
 
 Wir schätzen Kinder, spielen und experimentieren gerne und oft, auch im Leben sonst.
 
@@ -46,7 +46,7 @@ Neben unserem eigenen Haushalt haben wir viel Kontakt mit den acht Gross-WGs im 
 
 ## Die Umgebung.
 
-Mehr als Wohnen wurde von verschiedenen bestehenden Genossenschaften als Leuchtturmprojekt zum hundertjährigen Jubiläum der schweizerischen Baugenossenschaft gegründet. Mit Hilfe der Stadt konnten sie dem ehemaligen Beton-Verarbeiter das Hunzikerareal abkaufen und darauf in den Jahren 14/15 dreizehn Wohnungblocks für rund 1’300 Bewohner und Arbeitnehmer mit Mantelnutzung bauen. 
+Mehr als Wohnen wurde von verschiedenen bestehenden Genossenschaften als Leuchtturmprojekt zum hundertjährigen Jubiläum der schweizerischen Baugenossenschaft gegründet. Mit Hilfe der Stadt konnten sie dem ehemaligen Beton-Verarbeiter das Hunzikerareal abkaufen und darauf in den Jahren 14/15 dreizehn Wohnungblocks für rund 1’300 Bewohner und Arbeitnehmer mit Mantelnutzung bauen.
 
 [Das Hunzikerareal](https://hunzikerareal.ch/) wurde dabei als ein autoarmes⁴ Quartier konzipiert und seit 2015 mit zahlreichen Preisen für städtebaulich, ökologisch und sozial nachhaltigen Auszeichnungen gepriesen. Das Quartier bietet eine modern komfortable Infrastruktur mit viel Grün, Gemeinschaftsbüros, Werkstatt, Sauna, Yogastudio, Café und Restaurants, Velo- und Elektroautoverleih und kulturellen Anlässen.
 
@@ -54,6 +54,6 @@ In unmittelbarer Nähe befinden sich der Bahnhof und das Hallenbad Oerlikon, das
 
 # Fussnoten
 
-¹ {Was ist ein Cluster?}  
-² {Weshalb ein Verein?}  
+¹ {Was ist ein Cluster?}
+² {Weshalb ein Verein?}
 ³ {Wie funktioniert unser Verteilschlüssel?}
