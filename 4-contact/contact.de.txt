@@ -6,9 +6,9 @@ Text:
 
 Das Zimmer und der Cluster können an folgenden Terminen besichtigt werden:
 
-- Montag, 9. Dezember 2019 19:00
-- Mittwoch, 11. Dezember 2019 19:00
-- Sonntag, 15. Dezember 2019 14:00
+- Donnerstag, 15. Oktober 2020 18:00 (bei Katrin)
+- Montag, 19. Oktober 2020 17:00 (bei Moritz)
+- Dienstag, 20. Oktober 2020 18:00 (bei Mike)
 
 ----
 
@@ -19,8 +19,14 @@ Intro: Unsere Cluster-Wohnung befindet sich im fünften Stock des Dialogweg 6 in
 Contactoptions: 
 
 - 
-  title: Contact
-  text: Melde dich direkt bei Theresa.
-  url: 'mailto:cluster+kontakt@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
-  linktext: Schreib eine Mail
+  title: Anmeldung
+  text: Bitte melde dich bei Robert ...
+  url: 'mailto:rm@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
+  linktext: Anmelden
   icon: contact.svg
+- 
+  title: Anmeldung
+  icon: contact.svg
+  text: ... oder Diana.
+  url: 'mailto:df@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
+  linktext: Anmelden
