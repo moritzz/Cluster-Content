@@ -36,9 +36,9 @@ Unten findet ihr einige Impressionen aus Diana & Roberts Heim und hier einen (fi
 
 Die Wohnung und der Cluster können an folgenden Terminen besichtigt werden:
 
-- Donnerstag, 15. Oktober 2020 18:00 (bei Katrin)
-- Montag, 19. Oktober 2020 17:00 (bei Moritz)
-- Dienstag, 20. Oktober 2020 18:00 (bei Mike)
+- (file: /home/besichtigung-katrin.ics text: Donnerstag, 15. Oktober 2020 18:00) (bei Katrin)
+- (file: /home/besichtigung-moritz.ics text: Montag, 19. Oktober 2020 17:00) (bei Moritz)
+- (file: /home/besichtigung-mike.ics text: Dienstag, 20. Oktober 2020 18:00) (bei Mike)
 
 ## Interesse, Fragen?
 

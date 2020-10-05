@@ -2,7 +2,7 @@ Title: Freie Cluster
 
 ----
 
-Text:
+Text: 
 
 Die Wohnung besteht aus privaten und gemeinschaftlichen Räumen. Die fünf privaten Eineiten, sogenannte Cluster, umfassen je ein eigene Dusche mit WC und eine kleine Teeküche. Die Gemeinschaftsräume umfassen 124m². Dazu zählen eine riesige Wohnküche, Wohnzimmer, Büro, Foyer, Gästezimmer mit gemeinschaftlichem Badezimmer und Badewanne. Der Wohnküche ist ein 30m² grosser sonniger Balkon mit Südlage, Blumenpracht und Blick über das schöne Schwamendingen und den Zürichberg vorgelagert.
 
@@ -16,9 +16,9 @@ Ab 1. Januar 2021 wird folgende Cluster frei:
 
 Die Wohnung und der Cluster können an folgenden Terminen besichtigt werden:
 
-- Donnerstag, 15. Oktober 2020 18:00 (bei Katrin)
-- Montag, 19. Oktober 2020 17:00 (bei Moritz)
-- Dienstag, 20. Oktober 2020 18:00 (bei Mike)
+- (file: /home/besichtigung-katrin.ics text: Donnerstag, 15. Oktober 2020 18:00) (bei Katrin)
+- (file: /home/besichtigung-moritz.ics text: Montag, 19. Oktober 2020 17:00) (bei Moritz)
+- (file: /home/besichtigung-mike.ics text: Dienstag, 20. Oktober 2020 18:00) (bei Mike)
 
 Unten folgen Impressionen aus unserem Zusammenleben und den gemeinschaftlich bewohnten Räumen.
 
