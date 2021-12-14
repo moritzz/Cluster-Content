@@ -2,13 +2,7 @@ Title: Kontakt
 
 ----
 
-Text: 
-
-Das Zimmer und der Cluster können an folgenden Terminen besichtigt werden:
-
-- Donnerstag, 15. Oktober 2020 18:00 (bei Katrin)
-- Montag, 19. Oktober 2020 17:00 (bei Moritz)
-- Dienstag, 20. Oktober 2020 18:00 (bei Mike)
+Text: Um die Wohnung und den Cluster besichtigen zu können meldet euch vorerst gerne bei [Moritz](mailto:mz@mehrals11.ch?subject=Wir%20haben%20Interesse%20am%202er-Cluster).
 
 ----
 
@@ -20,13 +14,7 @@ Contactoptions:
 
 - 
   title: Anmeldung
-  text: Bitte melde dich bei Robert ...
-  url: 'mailto:rm@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
+  text: Bitte melde Dich vorerst bei Moritz...
+  url: 'mailto:mz@mehrals11.ch?subject=Wir%20haben%20Interesse%20am%202er-Cluster'
   linktext: Anmelden
   icon: contact.svg
-- 
-  title: Anmeldung
-  icon: contact.svg
-  text: ... oder Diana.
-  url: 'mailto:df@mehrals11.ch?subject=Mein%20Interesse%20an%20einem%20Zimmer%2FCluster'
-  linktext: Anmelden
