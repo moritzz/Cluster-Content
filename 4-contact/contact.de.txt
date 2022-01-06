@@ -2,19 +2,21 @@ Title: Kontakt
 
 ----
 
-Text: Um die Wohnung und den Cluster besichtigen zu können meldet euch vorerst gerne bei [Moritz](mailto:mz@mehrals11.ch?subject=Wir%20haben%20Interesse%20am%202er-Cluster).
+Text: Unsere Wohnung befindet sich im fünften Stock des Dialogweg 6 in 8050 Zürich.
 
 ----
 
-Intro: Unsere Cluster-Wohnung befindet sich im fünften Stock des Dialogweg 6 in 8050 Zürich.
+Intro: Bitte meldet euch per Mail an.
 
 ----
 
 Contactoptions: 
 
 - 
-  title: Anmeldung
-  text: Bitte melde Dich vorerst bei Moritz...
-  url: 'mailto:mz@mehrals11.ch?subject=Wir%20haben%20Interesse%20am%202er-Cluster'
-  linktext: Anmelden
+  title: E-Mail
   icon: contact.svg
+  text: >
+    Hier unsere gemeinsame
+    Bewerbungs-E-Mail.
+  url: mailto:cluster@mehrals11.ch
+  linktext: Bewerben und Anmelden
