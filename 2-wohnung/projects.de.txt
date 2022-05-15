@@ -4,8 +4,6 @@ Title: Freie Zimmer
 
 Text: 
 
-Es handelt sich um ein ca. 30m²-Cluster bestehend aus einem Zimmer, einem eigenen Bad mit Dusche und WC, einer Teeküche, einem kleinen eigenen Balkon und zwei grossen gegen Süden gerichteten Fenstern. Die Wohneinheit ist von der restlichen Wohnung akustisch gut isoliert. Die Teeküche bietet einen Kühlschrank und Lavabo. Die Räume sind lichtdurchflutet und gewähren bei einer Raumhöhe von 2,60m viel Gestaltungsmöglichkeit.
-
 Als Stauraum steht ein Kellerabteil zur Verfügung. Auf dem Stockwerk teilen wir mit der Nachbar-WG Waschküche und Trockenraum.
 
 Unser Haus besteht aus 11 Clusterwohnungen/WGs, mit denen wir uns in regelmässigen Hausversammlungen sowie Haus- und Quartier-Chat koordinieren.
@@ -14,10 +12,10 @@ Das Areal bietet in diversen Quartiergruppen vielfältige Möglichkeiten zur fre
 
 Wir wünschen uns eine:n neue:n Mitbewohner:in, die/der längerfristig mit uns wohnen möchte. 
 
-Die Preise der einzelnen Zimmer und Cluster berechnen sich nach einem (file:transparenter-verteilschluessel.pdf text:transparenten Verteilschlüssel) und enthalten alle Nebenkosten (Strom, Wasser, Putzdienst, Genossenschaftsbeitrag, umfangreiche Versicherungen).
+Die Preise der einzelnen Zimmer und Cluster berechnen sich nach einem (file: miete-gebuehren-20220508.xlsx) und enthalten alle Nebenkosten (Strom, Wasser, Putzdienst, Genossenschaftsbeitrag, umfangreiche Versicherungen).
 
 Um die Wohnung besichtigen zu können: **Bitte meldet euch unter <cluster@mehrals11.ch> an:**
 
 ----
 
-Intro: Einzel-Cluster frei ab dem 01. Mai 2022
+Intro: Doppel-Cluster ab 1. Juli und Einzel-Cluster ab dem 1. August 2022

@@ -2,7 +2,7 @@ Title: Home
 
 ----
 
-Intro: Die WG *Mehr als 11* sucht per 1. Mai 2022 **ein:e neue:n Mitbewohner:in**.
+Intro: Die WG *Mehr als 11* sucht ab 1. Juli 2022 **neue Mitbewohner:innen**.
 
 ----
 
@@ -10,7 +10,8 @@ Text:
 
 In [unserer 352m²-Wohnung am Dialogweg 6](/wohnung) wird ab 1. Mai 2022 folgendes Zimmer frei:
 
-- Ein-Zimmer-Cluster im [Süden](/wohnung/sueden)
+- Zwei-Zimmer-Cluster im [Nordosten](/wohnung/nordosten)
+- Ein-Zimmer-Cluster im [Osten](/wohnung/osten)
 
 Um die Wohnung besichtigen zu können, **bitte meldet euch unter <cluster@mehrals11.ch> an.**
 
@@ -18,4 +19,4 @@ In der Vollbesetzung sind wir sieben erwachsene Personen im Alter von 28 bis 49 
 
 Die Wohnung besteht aus privaten und gemeinschaftlichen Räumen. Die fünf privaten Eineiten, sogenannte Cluster, umfassen je ein eigene Dusche mit WC und eine kleine Teeküche. Die Gemeinschaftsräume umfassen 124m². Dazu zählen eine riesige Wohnküche, Wohnzimmer, Home-Office-optimiertes Büro, Foyer, Gäste-Badezimmer mit Badewanne. Der Wohnküche ist ein 30m² grosser sonniger Balkon mit Südlage, Blumenpracht und Blick auf den Züriberg.
 
-Die Mietpreise berechnen sich nach einem transparenten Verteilschlüssel und enthalten alle Nebenkosten (Strom, Wasser, Putzdienst, Genossenschaftsbeitrag, umfangreiche Versicherungen).
+Die Mietpreise berechnen sich nach einem (file: miete-gebuehren-20220508.xlsx text: transparenten Verteilschlüssel) und enthalten alle Nebenkosten (Strom, Wasser, Putzdienst, Genossenschaftsbeitrag, umfangreiche Versicherungen).
