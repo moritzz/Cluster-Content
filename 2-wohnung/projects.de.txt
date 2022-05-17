@@ -1,12 +1,12 @@
-Title: Freie Zimmer
+Title: Freie Cluster
 
 ----
 
 Text: 
 
-Als Stauraum steht ein Kellerabteil zur Verfügung. Auf dem Stockwerk teilen wir mit der Nachbar-WG Waschküche und Trockenraum.
-
 Unser Haus besteht aus 11 Clusterwohnungen/WGs, mit denen wir uns in regelmässigen Hausversammlungen sowie Haus- und Quartier-Chat koordinieren.
+
+Als Stauraum steht ein Kellerabteil zur Verfügung. Auf dem Stockwerk teilen wir mit der Nachbar-WG Waschküche und Trockenraum.
 
 Das Areal bietet in diversen Quartiergruppen vielfältige Möglichkeiten zur freiwilligen Mitwirkung und es gibt Allmendräume die für alle nutzbar sind, z.B. Treffpunkt (Café, Konzerte), Sauna auf dem Dach, Kraftraum mit Geräten und Matten, Werkstatt sowie Räume für unkommerzielle private Veranstaltungen.
 
@@ -18,4 +18,4 @@ Um die Wohnung besichtigen zu können: **Bitte meldet euch unter <cluster@mehral
 
 ----
 
-Intro: Doppel-Cluster ab 1. Juli und Einzel-Cluster ab dem 1. August 2022
+Intro: Ein Doppel-Cluster ab 1. Juli und ein Ein-Zimmer-Cluster ab spätestens  1. August 2022
