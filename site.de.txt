@@ -10,4 +10,4 @@ Description: Diese Website richtet sich an Beweberinnen und Bewerber für Cluser
 
 ----
 
-Copyright: © 2009–(date: Year) (link: ihr-wir text: Verein Mehr als 11 Süd)
+Copyright: © 2015–(date: Year) (link: ihr-wir text: Verein Mehr als 11 Süd), (link: https://maps.apple.com/?address=Dialogweg%206,%208050%20Z%C3%BCrich,%20Schweiz&ll=47.413518,8.559872&q=Privat&_ext=EiYp6zqv/Vq0R0AxK3c1mUEbIUA5aRDVWYG1R0BBm0fUkA0iIUBQBA%3D%3D&t=r text: Dialogweg 6, 8050 Zürich)
